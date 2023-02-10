@@ -1,4 +1,4 @@
-
+types = ['Drama', 'Crime', 'Action', 'Fantasy', 'Western', 'Comedy-Drama', 'Science Fiction', 'Mystery', 'Thriller', 'Animation', 'War']
 
 
 top_50_movies = [    ["The Shawshank Redemption", "Frank Darabont", "Drama", 9.2, 142],
